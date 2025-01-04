@@ -41,6 +41,4 @@ En el directorio del proyecto, puedes ejecutar los siguientes comandos:
 - `npm run build`: Construye la aplicación para producción.
 - `npm run preview`: Sirve la aplicación construida en un servidor local.
 
-## Descripción de uso
-
 ---
